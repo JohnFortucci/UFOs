@@ -75,10 +75,37 @@ The image below displays the screen and the resulting filter being applied and t
 
 Based on the image above it can be seen that the signtings data has been filtered for only date 5th January 2010.
 
-### Example of applying a single filter
+### Example of applying multiple filters
 
 The image below displays the screen and the resulting filter being applied and the filter data being shown. The filter entered is on the date filter and the criteria entered is for 5th January 2010 and state nj.
 
 ![Webpage Anatomy Image](/Resources/multipleFilters.PNG)
 
 Based on the image above it can be seen that the signtings data has been filtered for only date '5th January 2010' and state 'nj'
+
+## Summary
+
+While the webpage is functional and provides the desired interaction and resulting filtering. There are some limitations and possible additional functionality that could be developed.
+
+### Limitation
+
+One of the main limitations identiofied is in the filter functionality , at present while you can filter on multiple field values. You can only enter a single value per criteria. 
+
+Example 
+
+Using the multiple filters example above :- 
+
+- We entered the following filteres Date : 1/5/2010 and State : NJ
+
+We cannot enter multiple dates and multiple states
+
+- We cannot enter the following : Date : 1/5/2010 and 1/12/2010 and State : NJ and CA
+
+### Additional functionality recommendations
+
+The following additional functionality is recommended.
+
+1) Allow multiple entries in each of the filter criteria fields.
+2) Rather than having to go through each of the filter criterial seperately to clear the filter values , it would be recommend to insert a button with the functionality to reset all filter value to 'blank'.
+
+
