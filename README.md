@@ -40,3 +40,31 @@ This is a section of the page that allows the user to enter filter critiea to fi
 #### Table of sightings data
 
 This is a table of the sightings data and will be filtered by any values entered in the filters area.
+
+## Filtering sightings data
+
+The webpage allows for the filtering of signtings data based on the following data fields :- 
+- Date
+- City
+- State
+- Country
+- Shape
+
+If there are no entries in the filter criteria all entries will be displayed , if there is an entry in any of the filter criteria elements these will be applied and the filtered data displayed.
+
+It is not necessary to male and entry in all the filter fields ,  the data will be filtered only by the filter data that has been entered.
+
+E.G.
+
+If you wanted to filter for data for the date 1st January 2010 in the city of Benton. You would put an entry :- 
+
+1/1/2010 in the date filter box
+benton in the city filter box
+
+The clear an entry in the filter box just blank the entry and press enter , this will reset that particular filter for that box and the filter will be removed from the diplayed data.
+
+### Example of applying a single filter
+
+The image below displays the screen and the resulting filter being applied and the filter data being shown.
+
+![Webpage Anatomy Image](/Resources/pageAnatomy.PNG) ![Webpage Anatomy Image](/Resources/pageAnatomy.PNG)
