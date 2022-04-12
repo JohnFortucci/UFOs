@@ -69,6 +69,16 @@ The image below displays the initial screen without any filters being applied.
 
 ![Initial screem Image](/Resources/initialScreen.png) 
 
-The image below displays the screen and the resulting filter being applied and the filter data being shown.
+The image below displays the screen and the resulting filter being applied and the filter data being shown. The filter entered is on the date filter and the criteria entered is for 5th January 2010.
 
  ![Webpage Anatomy Image](/Resources/singleFilter.PNG)
+
+Based on the image above it can be seen that the signtings data has been filtered for only date 5th January 2010.
+
+### Example of applying a single filter
+
+The image below displays the screen and the resulting filter being applied and the filter data being shown. The filter entered is on the date filter and the criteria entered is for 5th January 2010 and state nj.
+
+![Webpage Anatomy Image](/Resources/multipleFilters.PNG)
+
+Based on the image above it can be seen that the signtings data has been filtered for only date '5th January 2010' and state 'nj'
