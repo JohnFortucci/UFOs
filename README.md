@@ -65,6 +65,10 @@ The clear an entry in the filter box just blank the entry and press enter , this
 
 ### Example of applying a single filter
 
+The image below displays the initial screen without any filters being applied.
+
+![Initial screem Image](/Resources/initialScreen.png) 
+
 The image below displays the screen and the resulting filter being applied and the filter data being shown.
 
-![Webpage Anatomy Image](/Resources/pageAnatomy.PNG) ![Webpage Anatomy Image](/Resources/pageAnatomy.PNG)
+ ![Webpage Anatomy Image](/Resources/singleFilter.PNG)
