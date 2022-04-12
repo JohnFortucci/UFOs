@@ -17,26 +17,26 @@ The following image shows the main areas of the webpage.
 
 The page has six main areas :- 
 
-### Navigation Bar
+#### Navigation Bar
 
 While there is no current functionality be performed at thios moment the section is created for future development , this will allow us to add fution site navigation without re-designing the overall layout.
 
-### Page Header
+#### Page Header
 
 This is the overall header for the page and allows a backgroup graphic with a text header.
 
-### Ariticle Title
+#### Ariticle Title
 
 This provides a text block that allows us to put a title for the subsequent article content.
 
-### Article Paragraph
+#### Article Paragraph
 
 This povides a text block that allows us to put the content of the article we are wanting to display on the page.
 
-### Filter for table data
+#### Filter for table data
 
 This is a section of the page that allows the user to enter filter critiea to filter the sightings data.
 
-### Table of sightings data
+#### Table of sightings data
 
 This is a table of the sightings data and will be filtered by any values entered in the filters area.
