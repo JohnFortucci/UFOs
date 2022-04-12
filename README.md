@@ -13,5 +13,5 @@ The purpose of this webpage is to provide and interactive tool to allow interact
 
 The following image shows the mmain areas of the webpage.
 
-![Terminal Output Screen Capture](/Resources/Terminal_Output_Election_Analysis.png)
+![Webpage Anatomy Image](/Resources/pageAnatomy.PNG)
 
